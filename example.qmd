@@ -1,17 +1,17 @@
 ---
-title: Participation certificate
+title: Certificate of Participation 
 author: Joe Slam
 role: traineR
 date: last-modified
 logo: logo.png
 logoheight: 0.9cm
 signature: signature.png
-signatureheight: 1.8cm
+signatureheight: 7mm
 opening: This is to certify that
 participant: Prof. Dr. Klara Aufbau
 # Text must not be longer than 3 lines!
 text: |
-  has successfully completed the training programR of 
+  has successfully completed the training program of 
   Faculty 10 of the Schalkenstein University of Applied 
   Sciences on statistical data analysis with R and RStudio.
 format:

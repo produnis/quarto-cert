@@ -14,7 +14,7 @@ contributes:
       vspaceopening: 2mm
       vspacename: 2mm
       vspacetext: 1mm
-      vspacesignature: -50mm
-      vspaceauthor: -7mm
+      vspacesignature: -7.5mm
+      vspaceauthor: -5mm
       keep-tex: false #true #false
       template: template.tex  
