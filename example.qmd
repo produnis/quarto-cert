@@ -1,0 +1,20 @@
+---
+title: Participation certificate
+author: Joe Slam
+role: traineR
+date: last-modified
+logo: logo.png
+logoheight: 0.9cm
+signature: signature.png
+signatureheight: 1.8cm
+opening: This is to certify that
+participant: Prof. Dr. Klara Aufbau
+# Text must not be longer than 3 lines!
+text: |
+  has successfully completed the training programR of 
+  Faculty 10 of the Schalkenstein University of Applied 
+  Sciences on statistical data analysis with R and RStudio.
+format:
+  quarto-cert-pdf: default
+## have a look at _extensions/produnis/quarto-cert/_extension.yml for more parameters
+---
